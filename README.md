@@ -11,7 +11,7 @@ This project demonstrates **knowledge distillation** from [LLaMA-3.2-3B-Instruct
 - Uses `wikitext-2-raw-v1` as training corpus.
 - Optimizes with KL divergence or MSE loss for token-level alignment.
 - ✅ You can directly download the finetuned student model (1B) from Hugging Face:
-👉 Y[YiChuanH/llama1B-finetuned](https://huggingface.co/YiChuanH/llama1B-finetuned)
+👉 [YiChuanH/llama1B-finetuned](https://huggingface.co/YiChuanH/llama1B-finetuned)
 
 ## 📦 Installation
 
