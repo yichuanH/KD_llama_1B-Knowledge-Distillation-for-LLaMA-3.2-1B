@@ -10,6 +10,8 @@ This project demonstrates **knowledge distillation** from [LLaMA-3.2-3B-Instruct
 - Trains the student model using soft labels (logits) from the teacher model.
 - Uses `wikitext-2-raw-v1` as training corpus.
 - Optimizes with KL divergence or MSE loss for token-level alignment.
+- ✅ You can directly download the finetuned student model (1B) from Hugging Face:
+👉 YiChuanH/llama1B-finetuned
 
 ## 📦 Installation
 
