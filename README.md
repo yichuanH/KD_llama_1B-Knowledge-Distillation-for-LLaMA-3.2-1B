@@ -37,4 +37,4 @@ jupyter notebook KD_llama_1B.ipynb
 
 ## 📝 License
 
-MIT License.
+MIT License. 
